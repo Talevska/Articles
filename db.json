@@ -33,40 +33,5 @@
     "pages": 176,
     "title": "The Book Of Job",
     "year": -600
-  },
-  {
-    "id": 5,
-    "author": "Unknown",
-    "pages": 288,
-    "title": "One Thousand and One Nights",
-    "year": 1200
-  },
-  {
-    "id": 6,
-    "author": "Unknown",
-    "pages": 384,
-    "title": "Nj\u00e1l's Saga",
-    "year": 1350
-  },
-  {
-    "id": 7,
-    "author": "Jane Austen",
-    "pages": 226,
-    "title": "Pride and Prejudice",
-    "year": 1813
-  },
-  {
-    "id": 8,
-    "author": "Honor\u00e9 de Balzac",
-    "pages": 443,
-    "title": "Le P\u00e8re Goriot",
-    "year": 1835
-  },
-  {
-    "id": 9,
-    "author": "Samuel Beckett",
-    "pages": 256,
-    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-    "year": 1952
   }
 ]
