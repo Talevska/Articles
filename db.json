@@ -34,6 +34,41 @@
       "pages": 176,
       "title": "The Book Of Job",
       "year": -600
+    },
+	{
+	  "id": 5,
+      "author": "Samuel Beckett",
+      "pages": 256,
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "year": 1952
+    },
+    {
+	  "id": 6,
+      "author": "Giovanni Boccaccio",
+      "pages": 1024,
+      "title": "The Decameron",
+      "year": 1351
+    },
+    {
+	  "id": 7,
+      "author": "Jorge Luis Borges",
+      "pages": 224,
+      "title": "Ficciones",
+      "year": 1965
+    },
+    {
+	  "id": 8,
+      "author": "Emily Bront\u00eb",
+      "pages": 342,
+      "title": "Wuthering Heights",
+      "year": 1847
+    },
+    {
+      "id": 9,
+      "author": "Albert Camus",
+      "pages": 185,
+      "title": "The Stranger",
+      "year": 1942
     }
   ]
 }
